@@ -97,8 +97,8 @@ export function InstantCommerce() {
                                             <Configure 
                                                 hitsPerPage={10}                                                
                                             />
-                                            <SearchBox 
-                                                className="rounded-lg border bg-white p-2"
+                                            <SearchBox
+                                                className="rounded-lg border border-neutral-200 bg-white p-2"
                                             />
                                             <RefinementList 
                                                 attribute="brand"
